@@ -2,6 +2,7 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "hardhat": "^2.22.18",
+    "hardhat-deploy": "^0.14.0",
     "prettier": "^3.4.2",
     "prettier-plugin-solidity": "^1.4.2"
   },
